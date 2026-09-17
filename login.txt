@@ -1,9 +1,2 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>my image</title>
-</head>
-<body>
-<img src="first.jpg" alt="my image></img>
-</body>
-</html>
+def hello():
+	print("my name is k Sudhakar")
